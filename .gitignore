@@ -422,3 +422,8 @@ local.settings.json
 # Java files
 target/
 .idea/
+# Azure Developer CLI
+.azure/
+
+# npm artifact from language: js workaround
+package-lock.json
